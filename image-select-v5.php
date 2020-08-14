@@ -23,7 +23,7 @@ class acf_field_image_select extends acf_field
 			'multiple'          => 0,
 			'image_path'		=>	apply_filters('acf/image-select/default_path', get_template_directory_uri() . '/images/'),
 			'image_extension'   => 'png',
-			'return_value'      => 'path'
+			'return_value'      => 'value'
 		);
 
 		// settings
