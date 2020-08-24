@@ -266,7 +266,7 @@ class acf_field_image_select extends acf_field
 	{
 		// bail early if no value
 		if( empty($value) ) {
-			return $value;
+			return '';
 		}
 
 
