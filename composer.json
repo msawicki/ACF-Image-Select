@@ -1,0 +1,13 @@
+{
+    "name": "msawicki/acf-image-select",
+    "description": "Fork of ACF Image Select Field",
+    "authors": [
+        {
+            "name": "Mike Sawicki",
+            "email": "mikes@tri.be"
+        }
+    ],
+    "require": {},
+    "version": "1.0.1",
+    "type": "wordpress-plugin"
+}
